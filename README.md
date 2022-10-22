@@ -14,7 +14,7 @@ Proyecto realizado para cubrir las evidencias correspondientes a las 4 unidades 
 
 - Sebastián Andry Escalante Mendoza
 
-- [José Miguel Vega Anaya](https://github.com/JoseVega18 "Perfil de José Miguel en GitHub")¨
+- [José Miguel Vega Anaya](https://github.com/JoseVega18 "Perfil de José Miguel en GitHub")
 
 - Caroline Lisette Zamora Vega
   
