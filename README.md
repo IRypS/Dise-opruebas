@@ -1,6 +1,6 @@
-# Aplicación en Spring - Grupo 4    
+# Prototipo de aplicacion
 
-Proyecto realizado para cubrir las evidencias correspondientes a las 4 unidades del IV ciclo del curso de Implementación de Soluciones
+Proyecto realizado para cubrir las evidencias correspondientes a las 4 unidades del IV ciclo del curso de Diseño de pruebas
 para Plataformas Web en el instituto CERTUS.    
 
 ## Integrantes    
@@ -11,9 +11,14 @@ para Plataformas Web en el instituto CERTUS.
 
 - [Ricardo Manuel Pelaez Limpi](https://github.com/IRypS "Perfil de Ricardo en GitHub")    
 
-- [Jersson Eduardo Leon Vilca](XD "Perfil de Jersson en GitHub")    
+- [Jersson Eduardo Leon Vilca](https://github.com/18Jers "Perfil de Jersson en GitHub")    
 
-- [Sebastián Andry Escalante Mendoza](XD "Perfil de Sebastian en GitHub")    
+- Sebastián Andry Escalante Mendoza
+
+- [José Miguel Vega Anaya](https://github.com/JoseVega18 "Perfil de José Miguel en GitHub")¨
+
+- Caroline Lisette Zamora Vega
+  
 
 ## Especificaciones    
 
@@ -23,9 +28,10 @@ para Plataformas Web en el instituto CERTUS.
 > - Css 3    
 > - Bootstrap 5.1.3   
 > - Javascript    
->
-> Tecnolgias back end    
 > 
-> - Java 18 (jdk-18.0.2.1)    
-> - Spring Boot 2.7.4    
-> - MySql 8.0.30 (Base de datos)    
+> Tecnologias back end
+> - Java (jdk 18)
+> - Spring boot
+> 
+> Motor de base de datos
+> - MySql (Aun no implementaod en el prototipo) 
