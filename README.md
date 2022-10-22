@@ -1,7 +1,6 @@
 # Prototipo de aplicacion
 
-Proyecto realizado para cubrir las evidencias correspondientes a las 4 unidades del IV ciclo del curso de Diseño de pruebas
-para Plataformas Web en el instituto CERTUS.    
+Proyecto realizado para cubrir las evidencias correspondientes a las 4 unidades del IV ciclo del curso de Diseño de pruebas en el instituto CERTUS.    
 
 ## Integrantes    
 
